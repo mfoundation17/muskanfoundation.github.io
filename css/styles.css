@@ -1,0 +1,115 @@
+body {
+  color: #f2f2f2;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+P,h5 {
+  color: #000;
+  font-weight: bolder;
+  line-height: 1.75;
+  margin: 10px 50px;
+  padding: 10px 0;
+  text-align: center;
+}
+
+h1 {
+  color: #000;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+h2 {
+  color: #800080;
+  font-family:  'Merriweather', serif;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+h3 {
+  color: #fff;
+  font-family: 'Merriweather', serif;
+  font-weight: bolder;
+  padding-top: 20px;
+  line-height: 2;
+}
+
+h4 {
+  color: #800080;
+  font-weight: bolder;
+  font-family: 'Merriweather', serif;
+}
+hr{
+  border-color: #800080;
+  border-width: 6px;
+  width: 15%;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  text-align: justify;
+  text-decoration: none;
+  color: #000;
+  font-weight: bolder;
+}
+.navbar-brand {
+
+  font-family: Ubuntu;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  color: #000;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+feature-box {
+  padding: 4.5%;
+}
+raj-box{
+  padding: 3.5%;
+}
+.icon {
+  color: #40514E;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #800080;
+}
+
+a:hover {
+  color: #800080;
+}
+
+.middle-container {
+  background-color: #000;
+
+}
+.services-row{
+  padding: 4% 0;
+}
+
+.muskanweek-container{
+    background-color: #000;
+}
+.bottom-container {
+  line-height: 1.75;
+padding-bottom: 60px;
+}
